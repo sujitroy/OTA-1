@@ -1,27 +1,28 @@
-<SlimOTA xsi:noNamespaceSchemaLocation="ota.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Stable>
-  <armani>
-                <Filename>OwnROM-OFFICIAL-v4.0-harpia-20170610</Filename>
-		       <BuildUrl
-                                id="build"
-                                title="Latest Build"
-                                description="Download Latest Build">https://qc3.androidfilehost.com/dl/T5SMFZbUgqxhGuNlLkHlVQ/1497570660/889764386195907394/OwnROM-UNOFFICIAL-v4.0-armani-20170613.zip
-             </BuildUrl>
-		                    <RomUrl
-                                id="rom"
-                                title="Rom"
-                                description="Download OwnROM builds">https://www.androidfilehost.com/?w=files&flid=187753
-                        </RomUrl>
-		        <GappsUrl
-                                id="gapps"
-                                title="GApps"
-                                description="Download latest GApps">http://opengapps.org/
-             </GappsUrl>
-                        <ChangelogUrl
-                                id="changelog"
-                                title="Changelog"
-                                description="View Changelog">https://raw.githubusercontent.com/OwnROM-Devices/OTA/own-n/changelog.xml
-                        </ChangelogUrl>
-         </armani>
-</Stable>
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+	<armani>
+		<Filename> OwnROM-UNOFFICIAL-v4.0-armani-20170613.zip</Filename>
+      <BuildUrl
+				id="build"
+				title="Latest Build"
+				description="Download Latest Build">https://de1.androidfilehost.com/dl/xM8X94giSwxYBRerAMH9WQ/1497575564/889764386195907394/OwnROM-UNOFFICIAL-v4.0-armani-20170613.zip
+			</BuildUrl>
+      <RomUrl
+				id="rom"
+				title="Rom"
+				description="Download OwnROM builds">https%3A%2F%2Fwww.androidfilehost.com%2F%3Fw%3Dfiles%26flid%3D187753
+			</RomUrl>
+      <GappsUrl
+				id="gapps"
+				title="GApps"
+				description="Download latest GApps">http://opengapps.org/
+			</GappsUrl>
+			<ChangelogUrl
+				id="changelog"
+				title="Changelog"
+				description="View Changelog">https://raw.githubusercontent.com/OwnROM-Devices/OTA/own-n/changelog.xml
+			</ChangelogUrl>
+	 </armani>
+    </Stable>
 </SlimOTA>
