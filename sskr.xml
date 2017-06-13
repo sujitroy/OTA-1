@@ -1,15 +1,27 @@
 <SlimOTA xsi:noNamespaceSchemaLocation="ota.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Stable>
-<oneplus3>
-  <Filename>OwnROM-OFFICIAL-v4.0-oneplus3-20170609</Filename>
-  <BuildUrl id="build" title="Latest Build" description="Download Latest Build">https://sourceforge.net/projects/own-rom/files/One%20Plus3%2C3t%20%28OnePlus3%2C3t%29/OwnROM-OFFICIAL-v4.0-oneplus3-20170609.zip/download			</BuildUrl>
-  <RomUrl id="rom" title="Rom" description="Download OwnROM builds">https://sourceforge.net/projects/own-rom/files/One%20Plus3%2C3t%20%28OnePlus3%2C3t%29/			</RomUrl>
-  <GappsUrl id="gapps" title="GApps" description="Download latest GApps">http://opengapps.org/			</GappsUrl>
-  <Recovery1Url id="recoveryone" title="Recovery" description="Download latest TWRP Recovery for OnePlus 3t">https://dl.twrp.me/oneplus3t/			</Recovery1Url>
-  <Recovery2Url id="recoverytwo" title="Recovery" description="Download latest TWRP Recovery for OnePlus 3">https://dl.twrp.me/oneplus3/			</Recovery2Url>
-  <OP3TFirmwareUrl id="OP3TFirmware" title="OP3T Firmware" description="OP3T Firmware Folder">https://www.androidfilehost.com/?w=files&amp;flid=171162			</OP3TFirmwareUrl>
-  <OP3FirmwareUrl id="OP3Firmware" title="OP3 Firmware" description="OP3 Firmware Folder">https://www.androidfilehost.com/?w=files&amp;flid=139137			</OP3FirmwareUrl>
-  <ChangelogUrl id="changelog" title="Changelog" description="View Changelog">https://raw.githubusercontent.com/OwnROM-Devices/OTA/own-n/changelog.xml			</ChangelogUrl>
-</oneplus3>
+  <armani>
+                <Filename>OwnROM-OFFICIAL-v4.0-harpia-20170610</Filename>
+		       <BuildUrl
+                                id="build"
+                                title="Latest Build"
+                                description="Download Latest Build">https://qc3.androidfilehost.com/dl/T5SMFZbUgqxhGuNlLkHlVQ/1497570660/889764386195907394/OwnROM-UNOFFICIAL-v4.0-armani-20170613.zip
+             </BuildUrl>
+		                    <RomUrl
+                                id="rom"
+                                title="Rom"
+                                description="Download OwnROM builds">?
+                        </RomUrl>
+		        <GappsUrl
+                                id="gapps"
+                                title="GApps"
+                                description="Download latest GApps">http://opengapps.org/
+             </GappsUrl>
+                        <ChangelogUrl
+                                id="changelog"
+                                title="Changelog"
+                                description="View Changelog">https://raw.githubusercontent.com/OwnROM-Devices/OTA/own-n/changelog.xml
+                        </ChangelogUrl>
+         </armani>
 </Stable>
 </SlimOTA>
